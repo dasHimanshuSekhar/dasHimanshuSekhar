@@ -1,14 +1,11 @@
-### Hi there 👋 It's me Himanshu
+### Hi there 👋 It's me, Himanshu
 
-- 🔭 I’m currently a B Tech Student in the stream of Information Technology
-- 🌱 I’m currently studying on Veer Surendra Sai University, Burla
-- 👯 I’m looking to collaborate on FRONTEND_WEB_DEV based projetcs
-- 📫 How to reach me: hellouniverse58@gmail.com 
-- SKILLS: C, C++, JAVA, PYTHON, JS, CSS, HTML
-- hackerRankProfile: https://www.hackerrank.com/dashimanshusekh1
-- linkedinProfile: https://www.linkedin.com/in/himanshu-sekhar-das-7889a01b3
-- codeChefProfile: https://www.codechef.com/users/das_himanshu
-
+- 🔭 Software Developer @iServeU Pvt Ltd
+- 🌱 Graduate: Veer Surendra Sai University Of Technology, Burla
+- 👯 I’m looking to collaborate on Spring Boot BACK_END-based projects.
+- 📫 How to reach me: dashimanshusekhar58@gmail.com 
+- Frame Work: Springboot
+- Language: Java
 <!--
 **dasHimanshuSekhar/dasHimanshuSekhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
